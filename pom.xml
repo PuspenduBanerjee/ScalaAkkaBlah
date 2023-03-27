@@ -5,7 +5,7 @@
     <artifactId>blah</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <properties>
-        <akka.version>2.4.8</akka.version>
+        <akka.version>2.4.17</akka.version>
         <scoverage.plugin.version>1.1.1</scoverage.plugin.version>
         <scoverage.excludedFiles>.*Finalization.*;.*MyService.*;.*package\.scala</scoverage.excludedFiles>
         <scoverage.excludedPackages>(empty)</scoverage.excludedPackages>
